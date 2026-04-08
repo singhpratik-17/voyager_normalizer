@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "entityUrn": "urn:li:fs_profile:ACoAABy-123",
+    "firstName": "John",
+    "lastName": "Doe",
+    "headline": "Software Developer | Btech"
+  },
+  "positions": {
+    "elements": [
+      {
+        "companyName": "Tech Solution",
+        "title": "Intern",
+        "timePeriod": {"startDate": {"year": 2025, "month": 6}}
+      }
+    ]
+  }
+}
