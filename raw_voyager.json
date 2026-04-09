@@ -1,17 +1,29 @@
 {
-  "profile": {
-    "entityUrn": "urn:li:fs_profile:ACoAABy-123",
-    "firstName": "John",
-    "lastName": "Doe",
-    "headline": "Software Developer | Btech"
-  },
-  "positions": {
-    "elements": [
-      {
-        "companyName": "Tech Solution",
-        "title": "Intern",
-        "timePeriod": {"startDate": {"year": 2025, "month": 6}}
-      }
-    ]
-  }
+  "public_identifier": "alex-coder-99",
+  "first_name": "  Alex  ",
+  "last_name": "  Smith  ",
+  "headline": " Full Stack Developer | Open Source Contributor ",
+  "summary": "Experienced in building scalable web applications and microservices.",
+  "location_name": "San Francisco, CA",
+  "positions": [
+    {
+      "title": "Senior Developer",
+      "company_name": "CloudSystems Inc",
+      "location": "Remote",
+      "date_range": { "start": { "year": 2023 }, "end": null }
+    },
+    {
+      "title": "Junior Engineer",
+      "company_name": "Old Tech Corp",
+      "location": "Austin, TX",
+      "date_range": { "start": { "year": 2021 }, "end": { "year": 2023 } }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "State University",
+      "degree_name": "Bachelor of Science",
+      "field_of_study": "Information Technology"
+    }
+  ]
 }
